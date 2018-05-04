@@ -43,7 +43,8 @@ Note:
 <!---  Add bullets using https://fontawesome.com/cheatsheet certificate
 -->
  @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;Define EDK II </span><br><br>
- @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em">&nbsp;&nbsp;Describe EDK II’s elements including file extensions,<br> &nbsp;&nbsp;&nbsp;&nbsp;directories, modules, packages, and libraries </span><br><br>
+ @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em">&nbsp;&nbsp;Describe EDK II’s elements including file extensions,<br> 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;directories, modules, packages, and libraries </span><br><br>
  @fa[certificate gp-bullet-yellow] <span style="font-size:0.9em">&nbsp;&nbsp;Explain the EDK II build process </span> <br><br>
  @fa[certificate gp-bullet-magenta] <span style="font-size:0.9em">&nbsp;&nbsp;Explain the Build tools</span> 
 
@@ -53,7 +54,7 @@ Note:
 ---?image=assets/images/binary-strings-black2.jpg
 @title[EDK II Overview Section]
 #### <span class="gold"  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDK II Overview </span>
-<span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;The EDK II Infrastructure </span>
+<span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The EDK II Infrastructure </span>
 
 
 
@@ -180,8 +181,8 @@ EDK II architecture discussions primarily focus on UEFI (OS-to-firmware interfac
 
 ---
 @title[EDK II File Extensions]
-<p align="left"><font size=.50em;><span class="gold"  >EDK II File Extensions</span><span style="color:white;">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;
-Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2 </span></font></p>
+<span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;<font color="#FF9966">EDK II File Extensions</font><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;
+Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2  </font> </span>
 
 ![EDK II File Extensions](/assets/images/bgpages/bge.png )
 
@@ -202,8 +203,8 @@ See EDK II Build Specification Documentation:
 
 +++
 @title[EDK II File Extensions 02]
-<p align="left"><font size=.50em;><span class="gold"  >EDK II File Extensions</span><span style="color:white;">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;
-Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2 </span></font></p>
+<span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;<font color="#FF9966">EDK II File Extensions</font><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;
+Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2  </font> </span>
 
 ![EDK II File Extensions](/assets/images/bgpages/bgf.png )
 
@@ -211,8 +212,8 @@ Note:
 So for file extensions <br>
 +++
 @title[EDK II File Extensions 03]
-<p align="left"><font size=.50em;><span class="gold"  >EDK II File Extensions</span><span style="color:white;">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;
-Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2 </span></font></p>
+<span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;<font color="#FF9966">EDK II File Extensions</font><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;
+Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2  </font> </span>
 
 ![EDK II File Extensions](/assets/images/bgpages/bg10.png )
 
@@ -588,9 +589,9 @@ Library Class names can be linked with different Processor resolutions (IA32/ x6
 ---
 
 @title[PCD Title page]
-#### <p align="center"><span class="gold" >Platform Configuration Database (PCD)</span></p>
+#### <p align="right"><span class="slide-title" >Platform Configuration Database (PCD)</span></p>
 
-![Platform Configuration Database -title](/assets/images/bgpages/pcd.jpg )
+![Platform Configuration Database title](/assets/images/bgpages/bg35.png)
 
 Note:
 Defining database - like global variables <br>
@@ -599,7 +600,7 @@ Many components of a database to help fine tune the BIOS or Firmware - build & r
 
 ---
 @title[Platform Configuration Database]
-<p align="center"><span class="gold" >Platform Configuration Database (PCD)</span></p>
+<p align="center"><span class="slide-title" >Platform Configuration Database (PCD)</span></p>
 
 ![Platform Configuration Database Goals](/assets/images/bgpages/bg36.png )
 
@@ -618,7 +619,7 @@ What the PCD store, the store platform information like the vital product data s
 +++
 
 @title[Platform Configuration Database 02]
-<p align="center"><span class="gold" >Platform Configuration Database (PCD)</span></p>
+<p align="center"><span class="slide-title" >Platform Configuration Database (PCD)</span></p>
 
 ![Platform Configuration Database Goals](/assets/images/bgpages/bg37.png )
 
@@ -637,7 +638,7 @@ What the PCD store, the store platform information like the vital product data s
 +++
 
 @title[Platform Configuration Database 03]
-<p align="center"><span class="gold" >Platform Configuration Database (PCD)</span></p>
+<p align="center"><span class="slide-title" >Platform Configuration Database (PCD)</span></p>
 
 ![Platform Configuration Database Goals](/assets/images/bgpages/bg38.png )
 
@@ -656,7 +657,7 @@ What the PCD store, the store platform information like the vital product data s
 +++
 
 @title[Platform Configuration Database 04]
-<p align="center"><span class="gold" >Platform Configuration Database (PCD)</span></p>
+<p align="center"><span class="slide-title" >Platform Configuration Database (PCD)</span></p>
 
 ![Platform Configuration Database Goals](/assets/images/bgpages/bg39.png )
 
@@ -675,7 +676,7 @@ What the PCD store, the store platform information like the vital product data s
 ---
 
 @title[Platform Configuration Database - Advantages]
-<p align="center"><span class="gold" >Platform Configuration Database (PCD)</span></p>
+<p align="center"><span class="slide-title" >Platform Configuration Database (PCD)</span></p>
 
 ![Platform Configuration Database Advantages](/assets/images/bgpages/bg3b.png )
 
@@ -697,7 +698,7 @@ And finally, there are binary edit aspects -<br>
 +++
 
 @title[Platform Configuration Database - Advantages 02]
-<p align="center"><span class="gold" >Platform Configuration Database (PCD)</span></p>
+<p align="center"><span class="slide-title" >Platform Configuration Database (PCD)</span></p>
 
 ![Platform Configuration Database Advantages](/assets/images/bgpages/bg3c.png )
 
@@ -719,7 +720,7 @@ And finally, there are binary edit aspects -<br>
 +++
 
 @title[Platform Configuration Database - Advantages 03]
-<p align="center"><span class="gold" >Platform Configuration Database (PCD)</span></p>
+<p align="center"><span class="slide-title" >Platform Configuration Database (PCD)</span></p>
 
 ![Platform Configuration Database Advantages](/assets/images/bgpages/bg3d.png )
 
@@ -760,7 +761,7 @@ Summary <br>
 @title[EDK II vs. UDK]
 <p align="center"><span class="gold" >EDK II vs. UDK(2010|2017 .. 2018)</span></p>
 
-![Platform Configuration Database Advantages](/assets/images/bgpages/EdkIIvsUDK.jpg )
+![EDK_II_Vs_UDK](/assets/images/bgpages/EdkIIvsUDK.jpg )
 
 <span style="font-size:0.5em" >wiki on tianocore.org
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/Differences-between-UDK-and-EDK-II'>Differences between UDK - EDK II</a></span>	
@@ -784,7 +785,7 @@ Intel® UEFI Developer’s Kit 2018 (Intel® UDK 2018, also called the Intel® U
 ---?image=assets/images/binary-strings-black2.jpg
 @title[Build Tools Section]
 #### <span class="brick"  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build Tools</span>
-<span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDK Build Tools and Configuration Files </span>
+<span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDK Build Tools and Configuration Files </span>
 
 ---
 @title[Development Environment]
@@ -956,7 +957,7 @@ When the build tools are run with this configuration the directories will be sca
 
 ---
 @title[Using target.txt]
-#### <p> <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>target.txt</b></font></span></font></span></p>
+#### <p align="right"><span class="gold" >Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>target.txt</b></font></span></font></span></p>
 
 ![Using target.txt](/assets/images/bgpages/bg51.png )
 
@@ -966,7 +967,7 @@ Scroll to last slide
 
 +++
 @title[Using target.txt 02]
-#### <p> <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>target.txt</b></font></span></font></span></p>
+#### <p align="right"> <span class="gold" >Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>target.txt</b></font></span></font></span></p>
 
 ![Using target.txt](/assets/images/bgpages/bg52.png )
 
@@ -976,7 +977,7 @@ Scroll to last slide
 
 +++
 @title[Using target.txt 03]
-#### <p> <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>target.txt</b></font></span></font></span></p>
+#### <p align="right"><span class="gold" >Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>target.txt</b></font></span></font></span></p>
 
 ![Using target.txt](/assets/images/bgpages/bg53.png )
 
@@ -985,7 +986,7 @@ Note:
 Scroll to last slide
 +++
 @title[Using target.txt 04]
-#### <p> <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>target.txt</b></font></span></font></span></p>
+#### <p align="right"> <span class="gold" >Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>target.txt</b></font></span></font></span></p>
 
 ![Using target.txt](/assets/images/bgpages/bg54.png )
 
@@ -994,7 +995,7 @@ Note:
 Scroll to last slide
 +++
 @title[Using target.txt 05]
-#### <p> <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>target.txt</b></font></span></font></span></p>
+#### <p align="right"> <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>target.txt</b></font></span></font></span></p>
 
 ![Using target.txt](/assets/images/bgpages/bg55.png )
 
@@ -1003,7 +1004,7 @@ Note:
 Scroll to last slide
 +++
 @title[Using target.txt 06]
-#### <p> <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>target.txt</b></font></span></font></span></p>
+#### <p align="right"> <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>target.txt</b></font></span></font></span></p>
 
 ![Using target.txt](/assets/images/bgpages/bg56.png )
 
@@ -1030,7 +1031,7 @@ Six, is how many threads to use to do the build – so if you have a brand-new C
 
 ---
 @title[Using Tools_Def.txt]
-#### <p> <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>Tools_Def.txt</b></font></span></font></span></p>
+#### <p align="right"> <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>Tools_Def.txt</b></font></span></font></span></p>
 
 ![Using Tools_Def.txt](/assets/images/bgpages/bg58.png )
 
@@ -1042,7 +1043,7 @@ Paths for compilers, assemblers, and linkers <br>
 
 +++
 @title[Using Tools_Def.txt 02]
-#### <p> <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>Tools_Def.txt</b></font></span></font></span></p>
+#### <p align="right"> <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>Tools_Def.txt</b></font></span></font></span></p>
 
 ![Using Tools_Def.txt](/assets/images/bgpages/bg59.png )
 
@@ -1055,7 +1056,7 @@ Only modify this file when …<br>
 
 +++
 @title[Using Tools_Def.txt 03]
-#### <p> <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>Tools_Def.txt</b></font></span></font></span></p>
+#### <p align="right"><span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>Tools_Def.txt</b></font></span></font></span></p>
 
 ![Using Tools_Def.txt](/assets/images/bgpages/bg5a.png )
 
@@ -1074,7 +1075,7 @@ Default values are set by edksetup script<br>
 ---?image=assets/images/binary-strings-black2.jpg
 @title[Build Process Section]
 #### <span class="brick"  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build Process</span>
-<span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDK Build Process and Build Text Files</span>
+<span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDK Build Process and Build Text Files</span>
 
 ---
 @title[Build Process Overview]
@@ -1350,9 +1351,9 @@ Note:
 
 ---
 @title[Build Command]
-#### <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Build Command</span>
+#### <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Build Command</span>
 
-- Accepts command line arguments to support scripted builds |
+- Accepts command line arguments to support scripted builds 
 - Overrides most settings found in target.txt |
 - Overrides DSC with a minimal INF build |
 - Overrides some settings in DSC file (.FDF) |
@@ -1362,6 +1363,8 @@ Note:
 
 
 Note:
+
+THIS IS A BUILD SLIDE - Press Right arrow <br>
 Advanced building usage The build tool is the main interface to the complete build process. This is a compiled tool downloaded as part of EDK II, or built if you are running on a non-Windows system. <br>
 It runs the rest of the build tools for you<br>
 There are command-line tools that are designed for the scripting of the build.  For example, in our group, we scripted it to run the build every night and send out a report. This way so we can see if something has been checked in that could cause the build to break<br>
@@ -1425,7 +1428,7 @@ TBD
 
 ---
 @title[Build Tool Binaries]
-#### <span class="gold"  >Build Tool Binaries</span>
+#### <p align="center"><span class="gold"  >Build Tool Binaries</span></p>
 
 ![Build Tool Binaries](/assets/images/bgpages/buildToolBin.jpg)
 
@@ -1450,11 +1453,12 @@ Other tools run as part of these 4
 
 <!---  Add bullets using https://fontawesome.com/cheatsheet certificate
 -->
+ 
  @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;Define EDK II </span><br><br>
- @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em">&nbsp;&nbsp;Describe EDK II’s elements including file extensions, directories, modules, packages, and libraries </span><br><br>
+ @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em">&nbsp;&nbsp;Describe EDK II’s elements including file extensions,<br> 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;directories, modules, packages, and libraries </span><br><br>
  @fa[certificate gp-bullet-yellow] <span style="font-size:0.9em">&nbsp;&nbsp;Explain the EDK II build process </span> <br><br>
  @fa[certificate gp-bullet-magenta] <span style="font-size:0.9em">&nbsp;&nbsp;Explain the Build tools</span> 
-
 
 
 ---?image=assets/images/gitpitch-audience.jpg
@@ -1467,9 +1471,6 @@ Other tools run as part of these 4
 
 ![Logo Slide](/assets/images/TianocoreLogo.png =10x)
 
----  
-@title[Backup]
-##### <p align="center"<span class="gold"   >Backup </span></p>
 
 ---
 @title[Acknowledgements]
