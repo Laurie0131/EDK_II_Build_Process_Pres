@@ -1,10 +1,10 @@
 ---?image=assets/images/gitpitch-audience.jpg
 @title[Title-UEFI Overview]
-## <span class="gold"   >UEFI & EDK II Training</span>
+## <span class="gold"   >&nbsp;UEFI & EDK II Training</span>
 
-####  EDK II Build Process
+####  &nbsp;&nbsp;EDK II Build Process
 <br>
-<span style="font-size:0.75em" ><a href='http://www.tianocore.org'>tianocore.org</a></span>
+<span style="font-size:0.75em" ><a href='http://www.tianocore.org'>&nbsp;&nbsp;&nbsp;&nbsp;tianocore.org</a></span>
 Note:
   PITCHME.md for UEFI / EDK II Training EDK II Build Process
 
@@ -44,7 +44,7 @@ Note:
 -->
  @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;Define EDK II </span><br><br>
  @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em">&nbsp;&nbsp;Describe EDK II’s elements including file extensions,<br> 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;directories, modules, packages, and libraries </span><br><br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;directories, modules, packages, and libraries </span><br><br>
  @fa[certificate gp-bullet-yellow] <span style="font-size:0.9em">&nbsp;&nbsp;Explain the EDK II build process </span> <br><br>
  @fa[certificate gp-bullet-magenta] <span style="font-size:0.9em">&nbsp;&nbsp;Explain the Build tools</span> 
 
@@ -181,10 +181,10 @@ EDK II architecture discussions primarily focus on UEFI (OS-to-firmware interfac
 
 ---
 @title[EDK II File Extensions]
-<span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;<font color="#FF9966">EDK II File Extensions</font><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;
-Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2  </font> </span>
+<p align="center"><span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;<font color="#e49436">EDK II File Extensions</font><font color="white">
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2  </font> </span></p>
 
-![EDK II File Extensions](/assets/images/bgpages/bge.png )
+![EDK II File Extensions](/assets/images/bgpages/ext_01.jpg )
 
 Note:
 So for file extensions <br>
@@ -203,19 +203,19 @@ See EDK II Build Specification Documentation:
 
 +++
 @title[EDK II File Extensions 02]
-<span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;<font color="#FF9966">EDK II File Extensions</font><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;
-Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2  </font> </span>
+<p align="center"><span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;<font color="#e49436">EDK II File Extensions</font><font color="white">
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2  </font> </span></p>
 
-![EDK II File Extensions](/assets/images/bgpages/bgf.png )
+![EDK II File Extensions](/assets/images/bgpages/ext_02.jpg )
 
 Note:
 So for file extensions <br>
 +++
 @title[EDK II File Extensions 03]
-<span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;<font color="#FF9966">EDK II File Extensions</font><font color="white">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;
-Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2  </font> </span>
+<p align="center"><span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;<font color="#e49436">EDK II File Extensions</font><font color="white">
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2  </font> </span></p>
 
-![EDK II File Extensions](/assets/images/bgpages/bg10.png )
+![EDK II File Extensions](/assets/images/bgpages/ext_03.jpg)
 
 Note:
 So for file extensions <br>
@@ -589,7 +589,7 @@ Library Class names can be linked with different Processor resolutions (IA32/ x6
 ---
 
 @title[PCD Title page]
-#### <p align="right"><span class="slide-title" >Platform Configuration Database (PCD)</span></p>
+#### <p align="right"><span class="slide-title75" >Platform Configuration Database (PCD)</span></p>
 
 ![Platform Configuration Database title](/assets/images/bgpages/bg35.png)
 
@@ -600,7 +600,7 @@ Many components of a database to help fine tune the BIOS or Firmware - build & r
 
 ---
 @title[Platform Configuration Database]
-<p align="center"><span class="slide-title" >Platform Configuration Database (PCD)</span></p>
+<p align="center"><span class="slide-title75" >Platform Configuration Database (PCD)</span></p>
 
 ![Platform Configuration Database Goals](/assets/images/bgpages/bg36.png )
 
@@ -619,7 +619,7 @@ What the PCD store, the store platform information like the vital product data s
 +++
 
 @title[Platform Configuration Database 02]
-<p align="center"><span class="slide-title" >Platform Configuration Database (PCD)</span></p>
+<p align="center"><span class="slide-title75" >Platform Configuration Database (PCD)</span></p>
 
 ![Platform Configuration Database Goals](/assets/images/bgpages/bg37.png )
 
@@ -638,7 +638,7 @@ What the PCD store, the store platform information like the vital product data s
 +++
 
 @title[Platform Configuration Database 03]
-<p align="center"><span class="slide-title" >Platform Configuration Database (PCD)</span></p>
+<p align="center"><span class="slide-title75" >Platform Configuration Database (PCD)</span></p>
 
 ![Platform Configuration Database Goals](/assets/images/bgpages/bg38.png )
 
@@ -657,7 +657,7 @@ What the PCD store, the store platform information like the vital product data s
 +++
 
 @title[Platform Configuration Database 04]
-<p align="center"><span class="slide-title" >Platform Configuration Database (PCD)</span></p>
+<p align="center"><span class="slide-title75" >Platform Configuration Database (PCD)</span></p>
 
 ![Platform Configuration Database Goals](/assets/images/bgpages/bg39.png )
 
@@ -676,7 +676,7 @@ What the PCD store, the store platform information like the vital product data s
 ---
 
 @title[Platform Configuration Database - Advantages]
-<p align="center"><span class="slide-title" >Platform Configuration Database (PCD)</span></p>
+<p align="center"><span class="slide-title75" >Platform Configuration Database (PCD)</span></p>
 
 ![Platform Configuration Database Advantages](/assets/images/bgpages/bg3b.png )
 
@@ -698,7 +698,7 @@ And finally, there are binary edit aspects -<br>
 +++
 
 @title[Platform Configuration Database - Advantages 02]
-<p align="center"><span class="slide-title" >Platform Configuration Database (PCD)</span></p>
+<p align="center"><span class="slide-title75" >Platform Configuration Database (PCD)</span></p>
 
 ![Platform Configuration Database Advantages](/assets/images/bgpages/bg3c.png )
 
@@ -720,7 +720,7 @@ And finally, there are binary edit aspects -<br>
 +++
 
 @title[Platform Configuration Database - Advantages 03]
-<p align="center"><span class="slide-title" >Platform Configuration Database (PCD)</span></p>
+<p align="center"><span class="slide-title75" >Platform Configuration Database (PCD)</span></p>
 
 ![Platform Configuration Database Advantages](/assets/images/bgpages/bg3d.png )
 
@@ -743,7 +743,8 @@ And finally, there are binary edit aspects -<br>
 ---
 
 @title[EDK II Infrastructure Summary]
-#### <p align="center"><span class="gold" >EDK II Infrastructure Summary</span></p>
+
+<p align="center"><span class="slide-title" >EDK II Infrastructure Summary</span></p>
 
 ![Platform Configuration Database Advantages](/assets/images/bgpages/EdkII_infrastructure.jpg )
 
@@ -761,7 +762,7 @@ Summary <br>
 @title[EDK II vs. UDK]
 <p align="center"><span class="gold" >EDK II vs. UDK(2010|2017 .. 2018)</span></p>
 
-![EDK_II_Vs_UDK](/assets/images/bgpages/EdkIIvsUDK.jpg )
+![EDK_II_Vs_UDK](/assets/images/bgpages/udk.jpg )
 
 <span style="font-size:0.5em" >wiki on tianocore.org
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/Differences-between-UDK-and-EDK-II'>Differences between UDK - EDK II</a></span>	

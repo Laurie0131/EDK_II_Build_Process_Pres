@@ -82,6 +82,20 @@ span.aside {
   display: block;
 }
 
+.reveal p span.slide-title75 {
+  color: #e49436;
+  font-size: 0.75em;
+  margin: 0 0 40px 0;
+  font-family: "Arial Narrow", Impact, sans-serif;
+  font-weight: normal;
+  line-height: 0.5;
+  letter-spacing: -0.05em;
+  text-transform: uppercase;
+  text-shadow: none;
+   text-align: center;
+  word-wrap: break-word;
+  display: block;
+}
 .reveal p span.slide-text5 {
   color: #C0C0C0;
   font-size: .5em;
