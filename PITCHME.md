@@ -4,7 +4,7 @@
 
 ####  &nbsp;&nbsp;EDK II Build Process
 <br>
-<span style="font-size:0.75em" ><a href='http://www.tianocore.org'>&nbsp;&nbsp;&nbsp;&nbsp;tianocore.org</a></span>
+<span style="font-size:0.75em" >&nbsp;&nbsp;&nbsp;<a href='http://www.tianocore.org'>tianocore.org</a></span>
 Note:
   PITCHME.md for UEFI / EDK II Training EDK II Build Process
 
@@ -54,7 +54,7 @@ Note:
 ---?image=assets/images/binary-strings-black2.jpg
 @title[EDK II Overview Section]
 #### <span class="gold"  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDK II Overview </span>
-<span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The EDK II Infrastructure </span>
+<span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The EDK II Infrastructure </span>
 
 
 
@@ -181,7 +181,7 @@ EDK II architecture discussions primarily focus on UEFI (OS-to-firmware interfac
 
 ---
 @title[EDK II File Extensions]
-<p align="center"><span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;<font color="#e49436">EDK II File Extensions</font><font color="white">
+<p align="center"><span style="font-size:0.9em" > &nbsp;&nbsp;&nbsp;<font color="#e49436">EDK II File Extensions</font><font color="white">
 &nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2  </font> </span></p>
 
 ![EDK II File Extensions](/assets/images/bgpages/ext_01.jpg )
@@ -203,7 +203,7 @@ See EDK II Build Specification Documentation:
 
 +++
 @title[EDK II File Extensions 02]
-<p align="center"><span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;<font color="#e49436">EDK II File Extensions</font><font color="white">
+<p align="center"><span style="font-size:0.9em" > &nbsp;&nbsp;&nbsp;<font color="#e49436">EDK II File Extensions</font><font color="white">
 &nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2  </font> </span></p>
 
 ![EDK II File Extensions](/assets/images/bgpages/ext_02.jpg )
@@ -212,7 +212,7 @@ Note:
 So for file extensions <br>
 +++
 @title[EDK II File Extensions 03]
-<p align="center"><span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;<font color="#e49436">EDK II File Extensions</font><font color="white">
+<p align="center"><span style="font-size:0.9em" > &nbsp;&nbsp;&nbsp;<font color="#e49436">EDK II File Extensions</font><font color="white">
 &nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2  </font> </span></p>
 
 ![EDK II File Extensions](/assets/images/bgpages/ext_03.jpg)
@@ -760,11 +760,11 @@ Summary <br>
 ---
 
 @title[EDK II vs. UDK]
-<p align="center"><span class="gold" >EDK II vs. UDK(2010|2017 .. 2018)</span></p>
+#### <p align="center"><span class="gold" >EDK II vs. UDK(2010|2017 .. 2018)</span></p>
 
 ![EDK_II_Vs_UDK](/assets/images/bgpages/udk.jpg )
 
-<span style="font-size:0.5em" >wiki on tianocore.org
+<span style="font-size:0.5em" >&nbsp;&nbsp;&nbsp;&nbsp;wiki on tianocore.org
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/Differences-between-UDK-and-EDK-II'>Differences between UDK - EDK II</a></span>	
 
 Note:
@@ -1405,7 +1405,7 @@ This is not the complete list … run build --help from the command prompt to se
 @title[Using Build-Y Reports]
 #### <p align="right"><span class="gold"  >Using </span> <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>build -Y</b></font></span><span class="gold"  >&nbsp;&nbsp;for Reports </span></p>
 
-![build Command -Y](/assets/images/bgpages/bg7f.png )
+![build Command -Y](/assets/images/bgpages/bg83.png )
 
 Note:
 build  –Y  PCD,  LIBRARY, FLASH, DEPEX, BUILD_FLAGS, FIXED_ADDRESS <Br>
@@ -1457,7 +1457,7 @@ Other tools run as part of these 4
  
  @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;Define EDK II </span><br><br>
  @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em">&nbsp;&nbsp;Describe EDK II’s elements including file extensions,<br> 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;directories, modules, packages, and libraries </span><br><br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;directories, modules, packages, and libraries </span><br><br>
  @fa[certificate gp-bullet-yellow] <span style="font-size:0.9em">&nbsp;&nbsp;Explain the EDK II build process </span> <br><br>
  @fa[certificate gp-bullet-magenta] <span style="font-size:0.9em">&nbsp;&nbsp;Explain the Build tools</span> 
 
