@@ -43,7 +43,7 @@ Note:
 <!---  Add bullets using https://fontawesome.com/cheatsheet certificate
 -->
  @fa[certificate gp-bullet-green]<span style="font-size:0.9em">&nbsp;&nbsp;Define EDK II </span><br><br>
- @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em">&nbsp;&nbsp;Describe EDK II’s elements including file extensions, directories, modules, packages, and libraries </span><br><br>
+ @fa[certificate gp-bullet-cyan] <span style="font-size:0.9em">&nbsp;&nbsp;Describe EDK II’s elements including file extensions,<br> &nbsp;&nbsp;&nbsp;&nbsp;directories, modules, packages, and libraries </span><br><br>
  @fa[certificate gp-bullet-yellow] <span style="font-size:0.9em">&nbsp;&nbsp;Explain the EDK II build process </span> <br><br>
  @fa[certificate gp-bullet-magenta] <span style="font-size:0.9em">&nbsp;&nbsp;Explain the Build tools</span> 
 
@@ -52,16 +52,16 @@ Note:
 
 ---?image=assets/images/binary-strings-black2.jpg
 @title[EDK II Overview Section]
-#### <span class="gold"  >EDK II Overview </span>
-<span style="font-size:0.75em" > The EDK II Infrastructure </span>
+#### <span class="gold"  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDK II Overview </span>
+<span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;The EDK II Infrastructure </span>
 
 
 
 ---
 @title[Philosophy of EDK II]
-#### <span class="gold" > Philosophy of EDK II </span>
+#### <p align="right"><span class="gold" > Philosophy of EDK II </span></p>
 
-![Philosophy of EDK II](/assets/images/bgpages/bg04.png )
+![Philosophy of EDK II](/assets/images/bgpages/bg4.png )
 
 
 Note:
@@ -104,9 +104,9 @@ Eliminated a lot of the Assembly
 
 +++
 @title[Philosophy of EDK II - 02]
-#### <span class="gold" > Philosophy of EDK II </span>
+#### <p align="right"><span class="gold" > Philosophy of EDK II </span></p>
 
-![Philosophy of EDK II](/assets/images/bgpages/bg05.png )
+![Philosophy of EDK II](/assets/images/bgpages/bg5.png )
 
 
 Note:
@@ -116,42 +116,43 @@ Separate tool code from source code<br>
 Via EDK Compatibility Package (ECP)<br>
 +++
 @title[Philosophy of EDK II - 03]
-#### <span class="gold" > Philosophy of EDK II </span>
+#### <p align="right"><span class="gold" > Philosophy of EDK II </span></p>
 
-![Philosophy of EDK II](/assets/images/bgpages/bg06.png )
+![Philosophy of EDK II](/assets/images/bgpages/bg6.png )
 
 
 Note:
 
 +++
 @title[Philosophy of EDK II - 04]
-#### <span class="gold" > Philosophy of EDK II </span>
+#### <p align="right"><span class="gold" > Philosophy of EDK II </span></p>
 
-![Philosophy of EDK II](/assets/images/bgpages/bg07.png )
+![Philosophy of EDK II](/assets/images/bgpages/bg7.png )
 
 
 Note:
 +++
 @title[Philosophy of EDK II - 05]
-#### <span class="gold" > Philosophy of EDK II </span>
+#### <p align="right"><span class="gold" > Philosophy of EDK II </span></p>
 
-![Philosophy of EDK II](/assets/images/bgpages/bg08.png )
+![Philosophy of EDK II](/assets/images/bgpages/bg8.png )
 
 
 Note:
 +++
 @title[Philosophy of EDK II - 06]
-#### <span class="gold" > Philosophy of EDK II </span>
+#### <p align="right"><span class="gold" > Philosophy of EDK II </span></p>
 
-![Philosophy of EDK II](/assets/images/bgpages/bg09.png )
+![Philosophy of EDK II](/assets/images/bgpages/bg9.png )
 
 
 Note:
 ---
 @title[Implementation of EDK II]
-#### <span class="gold" > Implementation of EDK II </span>
+#### <p align="right"><span class="gold" > Implementation of EDK II </span></p>
 
-![Philosophy of EDK II](/assets/images/bgpages/bg0b.png )
+
+![Philosophy of EDK II](/assets/images/bgpages/bgb.png )
 
 
 Note:
@@ -164,9 +165,9 @@ EDK II architecture discussions primarily focus on UEFI (OS-to-firmware interfac
 
 +++
 @title[Implementation of EDK II -02]
-#### <span class="gold" > Implementation of EDK II </span>
+#### <p align="right"><span class="gold" > Implementation of EDK II </span></p>
 
-![Philosophy of EDK II](/assets/images/bgpages/bg0c.png )
+![Philosophy of EDK II](/assets/images/bgpages/bgc.png )
 
 
 Note:
@@ -179,10 +180,10 @@ EDK II architecture discussions primarily focus on UEFI (OS-to-firmware interfac
 
 ---
 @title[EDK II File Extensions]
-####<p align="left"><span class="gold"  >EDK II File Extensions</span><span style="color:white;">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;
-Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2 </span></p>
+<p align="left"><font size=.50em;><span class="gold"  >EDK II File Extensions</span><span style="color:white;">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;
+Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2 </span></font></p>
 
-![EDK II File Extensions](/assets/images/bgpages/bg0e.png )
+![EDK II File Extensions](/assets/images/bgpages/bge.png )
 
 Note:
 So for file extensions <br>
@@ -201,36 +202,28 @@ See EDK II Build Specification Documentation:
 
 +++
 @title[EDK II File Extensions 02]
-####<p align="left"><span class="gold"  >EDK II File Extensions</span><span style="color:white;">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;
-Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2 </span></p>
+<p align="left"><font size=.50em;><span class="gold"  >EDK II File Extensions</span><span style="color:white;">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;
+Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2 </span></font></p>
 
-![EDK II File Extensions](/assets/images/bgpages/bg0f.png )
+![EDK II File Extensions](/assets/images/bgpages/bgf.png )
 
 Note:
 So for file extensions <br>
 +++
 @title[EDK II File Extensions 03]
-####<p align="left"><span class="gold"  >EDK II File Extensions</span><span style="color:white;">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;
-Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2 </span></p>
+<p align="left"><font size=.50em;><span class="gold"  >EDK II File Extensions</span><span style="color:white;">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;
+Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2 </span></font></p>
 
 ![EDK II File Extensions](/assets/images/bgpages/bg10.png )
 
 Note:
 So for file extensions <br>
-+++
-@title[EDK II File Extensions 04]
-####<p align="left"><span class="gold"  >EDK II File Extensions</span><span style="color:white;">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;
-Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2 </span></p>
 
-![EDK II File Extensions](/assets/images/bgpages/bg11.png )
-
-Note:
-So for file extensions <br>
 ---
 @title[EDK II Directory Structure]
-#### <span class="gold" > EDK II Directory Structure </span>
+####  <p align="right"><span class="gold" > EDK II Directory Structure </span></p>
 
-![EDK II Directory Structure](/assets/images/bgpages/bg13.png )
+![EDK II Directory Structure](/assets/images/bgpages/bg12.png )
 
 
 Note:
@@ -243,33 +236,34 @@ These directories are from the github edk2 project
 
 +++
 @title[EDK II Directory Structure 02]
-#### <span class="gold" > EDK II Directory Structure </span>
+####  <p align="right"><span class="gold" > EDK II Directory Structure </span></p>
+
+![EDK II Directory Structure](/assets/images/bgpages/bg13.png )
+
+
+Note:
++++
+@title[EDK II Directory Structure 03]
+####  <p align="right"><span class="gold" > EDK II Directory Structure </span></p>
 
 ![EDK II Directory Structure](/assets/images/bgpages/bg14.png )
 
 
 Note:
 +++
-@title[EDK II Directory Structure 03]
-#### <span class="gold" > EDK II Directory Structure </span>
+@title[EDK II Directory Structure 04]
+####  <p align="right"><span class="gold" > EDK II Directory Structure </span></p>
+
 
 ![EDK II Directory Structure](/assets/images/bgpages/bg15.png )
 
 
 Note:
-+++
-@title[EDK II Directory Structure 04]
-#### <span class="gold" > EDK II Directory Structure </span>
-
-![EDK II Directory Structure](/assets/images/bgpages/bg16.png )
-
-
-Note:
 ---
 @title[Directory Structure - Real Platform]
-#### <span class="gold" > Directory Structure - Real Platform </span>
+####  <p align="right"><span class="gold" > Directory Structure - Real Platform</span></p>
 
-![Platform Directory Structure](/assets/images/bgpages/bg18.png )
+![Platform Directory Structure](/assets/images/bgpages/bg17.png )
 
 Note:
 Open Source Directory COLUMN 1
@@ -279,7 +273,15 @@ Minnowboard MAX (Native EDK II) is the example directory structure
 
 +++
 @title[Directory Structure - Real Platform 02]
-#### <span class="gold" > Directory Structure - Real Platform </span>
+####  <p align="right"><span class="gold" > Directory Structure - Real Platform</span></p>
+
+![Platform Directory Structure](/assets/images/bgpages/bg18.png )
+
+Note:
+
++++
+@title[Directory Structure - Real Platform 03]
+####  <p align="right"><span class="gold" > Directory Structure - Real Platform</span></p>
 
 ![Platform Directory Structure](/assets/images/bgpages/bg19.png )
 
@@ -287,26 +289,18 @@ Note:
 
 +++
 @title[Directory Structure - Real Platform 03]
-#### <span class="gold" > Directory Structure - Real Platform </span>
+####  <p align="right"><span class="gold" > Directory Structure - Real Platform</span></p>
 
 ![Platform Directory Structure](/assets/images/bgpages/bg1a.png )
-
-Note:
-
-+++
-@title[Directory Structure - Real Platform 03]
-#### <span class="gold" > Directory Structure - Real Platform </span>
-
-![Platform Directory Structure](/assets/images/bgpages/bg1b.png )
 
 Note:
 
 
 ---
 @title[Modules]
-#### <span class="gold" > Modules</span>
+####  <p align="right"><span class="gold" > Modules</span></p>
 
-![Modules](/assets/images/bgpages/bg1d.png )
+![Modules](/assets/images/bgpages/bg1c.png )
 
 Note:
 
@@ -324,46 +318,35 @@ All of these could be a module.  A modules could  be one entity<br>
 
 +++
 @title[Modules 02]
-#### <span class="gold" > Modules</span>
+####  <p align="right"><span class="gold" > Modules</span></p>
 
-![Modules](/assets/images/bgpages/bg1e.png )
+![Modules](/assets/images/bgpages/bg1d.png )
 
 Note:
 +++
 @title[Modules 03]
-#### <span class="gold" > Modules</span>
+####  <p align="right"><span class="gold" > Modules</span></p>
 
-![Modules](/assets/images/bgpages/bg1f.png )
+![Modules](/assets/images/bgpages/bg1e.png )
 
 Note:
 
 +++
 @title[Modules 04]
-#### <span class="gold" > Modules</span>
+####  <p align="right"><span class="gold" > Modules</span></p>
 
-![Modules](/assets/images/bgpages/bg20.png )
+![Modules](/assets/images/bgpages/bg1f.png )
 
 Note:
 ---
 
 @title[Packages]
-#### <span class="gold" > Packages</span>
-<div class="left">
- 	<ul>
-        <li>EDK II projects are made up of packages</li>
-        <li>Make your own packages</li>
-        <li>Package contains only the necessities</li>
-        <li>Remove packages from projects when not required</li>
-    </ul>
-</div>
-<div class="right">
-    ![package](/assets/images/bgpages/package.jpg )
-</div>
+#### <p align="right"><span class="gold" > Packages</span></p>
+![Modules](/assets/images/bgpages/bg21.png )
 
 
 Note:
 
-Image – creative commons https://www.rischiocalcolato.it/2015/03/non-tutte-le-bad-bank-riescono-senza-buco-ovvero-il-pacco-ibn-arrivo-sui-contribuenti-italiani.html <br>
 EDK II projects are made up of packages<br>
 EDK II Enable developers to make their own packages<br>
 Package contains only what is needed<br>
@@ -404,7 +387,8 @@ Grouping the things together that you need with out the WHOLE kitchen sink Lets 
 
 ---
 @title[EDK II Package Examples: Specs]
-#### <span class="gold" > EDK II Package Examples: Specs</span>
+#### <p align="right"><span class="gold" > EDK II Package Examples: Specs</span></p>
+
 
 ![Package Examples: Specs](/assets/images/bgpages/bg23.png )
 
@@ -420,7 +404,7 @@ IntelFrameworkModulePkg<br>
 Contains modules (PEIMs + DXE Drivers + UEFI Drivers) that make reference to one or more definitions in the IntelFrameworkPkg<br>
 +++
 @title[EDK II Package Examples: Specs 02]
-#### <span class="gold" > EDK II Package Examples: Specs</span>
+#### <p align="right"><span class="gold" > EDK II Package Examples: Specs</span></p>
 
 ![Package Examples: Specs](/assets/images/bgpages/bg24.png )
 
@@ -430,7 +414,7 @@ Modules (PEIMs + DXE Drivers + UEFI Drivers + UEFI Applications) that only defin
 
 +++
 @title[EDK II Package Examples: Specs 03]
-#### <span class="gold" > EDK II Package Examples: Specs</span>
+#### <p align="right"><span class="gold" > EDK II Package Examples: Specs</span></p>
 
 ![Package Examples: Specs](/assets/images/bgpages/bg25.png )
 
@@ -440,7 +424,7 @@ Include files and libraries for those parts of the Intel Platform Innovation Fra
 
 +++
 @title[EDK II Package Examples: Specs 04]
-#### <span class="gold" > EDK II Package Examples: Specs</span>
+#### <p align="right"><span class="gold" > EDK II Package Examples: Specs</span></p>
 
 ![Package Examples: Specs](/assets/images/bgpages/bg26.png )
 
@@ -455,7 +439,7 @@ IntelFrameworkModulePkg<br>
 Contains modules (PEIMs + DXE Drivers + UEFI Drivers) that make reference to one or more definitions in the IntelFrameworkPkg<br>
 ---
 @title[Additional Package Examples: ]
-#### <span class="gold" >Additional EDK II Package Examples: </span>
+#### <p align="right"><span class="gold" >Additional EDK II Package Examples:</span></p>
 
 ![Package Examples](/assets/images/bgpages/bg28.png )
 
@@ -466,7 +450,7 @@ OvmfPkg – Virtual Machine Firmware
 
 +++
 @title[Additional Package Examples: 02 ]
-#### <span class="gold" >Additional EDK II Package Examples: </span>
+#### <p align="right"><span class="gold" >Additional EDK II Package Examples:</span></p>
 
 ![Package Examples](/assets/images/bgpages/bg29.png )
 
@@ -478,7 +462,7 @@ Ich9Pkg – Intel I/O controller hub (ICH9 )
 
 +++
 @title[Additional Package Examples: 03 ]
-#### <span class="gold" >Additional EDK II Package Examples: </span>
+#### <p align="right"><span class="gold" >Additional EDK II Package Examples:</span></p>
 
 ![Package Examples](/assets/images/bgpages/bg2a.png )
 
@@ -489,7 +473,7 @@ NetworkPkg – Network drivers and Applications
 
 ---
 @title[Libraries ]
-#### <span class="gold" >Libraries </span>
+#### <p align="right"><span class="gold" >Libraries </span></p>
 
 ![Libraries_phases](/assets/images/bgpages/bg2c.png )
 
@@ -507,7 +491,7 @@ BDS – Policy happens – Screen turns – boot policy <br>
 
 +++
 @title[Libraries 02]
-#### <span class="gold" >Libraries </span>
+#### <p align="right"><span class="gold" >Libraries </span></p>
 
 ![Libraries_phases](/assets/images/bgpages/bg2d.png )
 
@@ -526,7 +510,7 @@ BDS – Policy happens – Screen turns – boot policy <br>
 +++
 
 @title[Libraries 03 ]
-#### <span class="gold" >Libraries </span>
+#### <p align="right"><span class="gold" >Libraries </span></p>
 
 ![Libraries_phases](/assets/images/bgpages/bg2e.png )
 
@@ -545,7 +529,7 @@ BDS – Policy happens – Screen turns – boot policy <br>
 +++
 
 @title[Libraries 04]
-#### <span class="gold" >Libraries </span>
+#### <p align="right"><span class="gold" >Libraries </span></p>
 
 ![Libraries_phases](/assets/images/bgpages/bg2f.png )
 
@@ -563,7 +547,7 @@ BDS – Policy happens – Screen turns – boot policy <br>
 
 ---
 @title[Example-Library-Debuglib]
-#### <p align="left"><span class="gold"  >Example - Library</span><span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>Debuglib</b> </font></span></p>
+#### <p align="right"><span class="gold"  >Example - Library</span><span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>Debuglib</b> </font></span></p>
 ![Libraries_DebugLib](/assets/images/bgpages/bg31.png )
 
 Note:
@@ -576,7 +560,8 @@ Library Class names can be linked with different Processor resolutions (IA32/ x6
 +++
 
 @title[Example-Library-Debuglib 02]
-#### <p align="left"><span class="gold"  >Example - Library</span><span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>Debuglib</b> </font></span></p>
+#### <p align="right"><span class="gold"  >Example - Library</span><span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>Debuglib</b> </font></span></p>
+
 ![Libraries_DebugLib](/assets/images/bgpages/bg32.png )
 
 Note:
@@ -589,7 +574,8 @@ Library Class names can be linked with different Processor resolutions (IA32/ x6
 +++
 
 @title[Example-Library-Debuglib 03]
-#### <p align="left"><span class="gold"  >Example - Library</span><span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>Debuglib</b> </font></span></p>
+#### <p align="right"><span class="gold"  >Example - Library</span><span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>Debuglib</b> </font></span></p>
+
 ![Libraries_DebugLib](/assets/images/bgpages/bg33.png )
 
 Note:
@@ -602,9 +588,9 @@ Library Class names can be linked with different Processor resolutions (IA32/ x6
 ---
 
 @title[PCD Title page]
-#### <span class="gold" >Platform Configuration Database (PCD)</span>
+#### <p align="center"><span class="gold" >Platform Configuration Database (PCD)</span></p>
 
-![Platform Configuration Database -title](/assets/images/bgpages/bg35.png )
+![Platform Configuration Database -title](/assets/images/bgpages/pcd.jpg )
 
 Note:
 Defining database - like global variables <br>
@@ -613,7 +599,7 @@ Many components of a database to help fine tune the BIOS or Firmware - build & r
 
 ---
 @title[Platform Configuration Database]
-#### <span class="gold" >Platform Configuration Database (PCD)</span>
+<p align="center"><span class="gold" >Platform Configuration Database (PCD)</span></p>
 
 ![Platform Configuration Database Goals](/assets/images/bgpages/bg36.png )
 
@@ -632,7 +618,7 @@ What the PCD store, the store platform information like the vital product data s
 +++
 
 @title[Platform Configuration Database 02]
-#### <span class="gold" >Platform Configuration Database (PCD)</span>
+<p align="center"><span class="gold" >Platform Configuration Database (PCD)</span></p>
 
 ![Platform Configuration Database Goals](/assets/images/bgpages/bg37.png )
 
@@ -651,7 +637,7 @@ What the PCD store, the store platform information like the vital product data s
 +++
 
 @title[Platform Configuration Database 03]
-#### <span class="gold" >Platform Configuration Database (PCD)</span>
+<p align="center"><span class="gold" >Platform Configuration Database (PCD)</span></p>
 
 ![Platform Configuration Database Goals](/assets/images/bgpages/bg38.png )
 
@@ -670,7 +656,7 @@ What the PCD store, the store platform information like the vital product data s
 +++
 
 @title[Platform Configuration Database 04]
-#### <span class="gold" >Platform Configuration Database (PCD)</span>
+<p align="center"><span class="gold" >Platform Configuration Database (PCD)</span></p>
 
 ![Platform Configuration Database Goals](/assets/images/bgpages/bg39.png )
 
@@ -689,7 +675,7 @@ What the PCD store, the store platform information like the vital product data s
 ---
 
 @title[Platform Configuration Database - Advantages]
-#### <span class="gold" >Platform Configuration Database (PCD)</span>
+<p align="center"><span class="gold" >Platform Configuration Database (PCD)</span></p>
 
 ![Platform Configuration Database Advantages](/assets/images/bgpages/bg3b.png )
 
@@ -711,7 +697,7 @@ And finally, there are binary edit aspects -<br>
 +++
 
 @title[Platform Configuration Database - Advantages 02]
-#### <span class="gold" >Platform Configuration Database (PCD)</span>
+<p align="center"><span class="gold" >Platform Configuration Database (PCD)</span></p>
 
 ![Platform Configuration Database Advantages](/assets/images/bgpages/bg3c.png )
 
@@ -733,7 +719,7 @@ And finally, there are binary edit aspects -<br>
 +++
 
 @title[Platform Configuration Database - Advantages 03]
-#### <span class="gold" >Platform Configuration Database (PCD)</span>
+<p align="center"><span class="gold" >Platform Configuration Database (PCD)</span></p>
 
 ![Platform Configuration Database Advantages](/assets/images/bgpages/bg3d.png )
 
@@ -756,23 +742,25 @@ And finally, there are binary edit aspects -<br>
 ---
 
 @title[EDK II Infrastructure Summary]
-## <span class="gold" >EDK II Infrastructure Summary</span>
+#### <p align="center"><span class="gold" >EDK II Infrastructure Summary</span></p>
 
-![Platform Configuration Database Advantages](/assets/images/bgpages/bg3f.png )
+![Platform Configuration Database Advantages](/assets/images/bgpages/EdkII_infrastructure.jpg )
 
 Note:
 
 Summary <br>
 - Packages<br>
+  - list of modules<br>
 - Libraries<br>
+   - Names with different implimentation<br>
 - PCD
 	
 ---
 
 @title[EDK II vs. UDK]
-## <span class="gold" >EDK II vs. UDK(2010|2017 .. 2018)</span>
+<p align="center"><span class="gold" >EDK II vs. UDK(2010|2017 .. 2018)</span></p>
 
-![Platform Configuration Database Advantages](/assets/images/bgpages/EDKIIvsUDK.jpg )
+![Platform Configuration Database Advantages](/assets/images/bgpages/EdkIIvsUDK.jpg )
 
 <span style="font-size:0.5em" >wiki on tianocore.org
 <a href='https://github.com/tianocore/tianocore.github.io/wiki/Differences-between-UDK-and-EDK-II'>Differences between UDK - EDK II</a></span>	
@@ -795,14 +783,14 @@ Intel® UEFI Developer’s Kit 2018 (Intel® UDK 2018, also called the Intel® U
 
 ---?image=assets/images/binary-strings-black2.jpg
 @title[Build Tools Section]
-#### <span class="brick"  >&nbsp;&nbsp;&nbsp;Build Tools</span>
-<span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;EDK Build Tools and Configuration Files </span>
+#### <span class="brick"  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build Tools</span>
+<span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDK Build Tools and Configuration Files </span>
 
 ---
 @title[Development Environment]
-#### <span class="gold" >Development Environment</span>
+#### <p align="center"><span class="gold" >Development Environment</span></p>
 
-![Development Environment](/assets/images/bgpages/bg44.png )
+![Development Environment](/assets/images/bgpages/DevelopEnv.jpg )
 
 Note:
 The development environment is one of the primary changes to EDK II.<br>
@@ -818,9 +806,9 @@ For example, the byte code compiler does not do floating point.  So if you add c
 
 ---
 @title[Environment Variables]
-#### <span class="gold" >Environment Variables</span>
+#### <p align="center"><span class="gold" >Environment Variables</span></p>
 
-![Development Environment](/assets/images/bgpages/bg46.png )
+![Development Environment](/assets/images/bgpages/envVars.jpg )
 
 Note:
 EDK II depends on Environment variables – <br>
@@ -835,7 +823,7 @@ The last two are not used for native EDK II at all.<br>
 
 ---
 @title[Configuration Files - Scripts]
-#### <span class="gold" >Configuration Files - Scripts</span>
+#### <p align="right"><span class="gold" >Configuration Files - Scripts</span></p>
 
 ![Configuration Files Scripts](/assets/images/bgpages/bg48.png )
 
@@ -851,7 +839,7 @@ If you run this script file and those files are already there, it won’t do any
 
 +++
 @title[Configuration Files - Scripts 02]
-#### <span class="gold" >Configuration Files - Scripts</span>
+#### <p align="right"><span class="gold" >Configuration Files - Scripts</span></p>
 
 ![Configuration Files Scripts](/assets/images/bgpages/bg49.png )
 
@@ -871,7 +859,7 @@ If you run this script file and those files are already there, it won’t do any
 
 +++
 @title[Configuration Files - Scripts 03]
-#### <span class="gold" >Configuration Files - Scripts</span>
+#### <p align="right"><span class="gold" >Configuration Files - Scripts</span></p>
 
 ![Configuration Files Scripts](/assets/images/bgpages/bg4a.png )
 
@@ -889,7 +877,7 @@ If you run this script file and those files are already there, it won’t do any
 
 +++
 @title[Configuration Files - Scripts 04]
-#### <span class="gold" >Configuration Files - Scripts</span>
+#### <p align="right"><span class="gold" >Configuration Files - Scripts</span></p>
 
 ![Configuration Files Scripts](/assets/images/bgpages/bg4b.png )
 
@@ -907,7 +895,7 @@ If you run this script file and those files are already there, it won’t do any
 
 ---
 @title[Multiple Workspace Environment Variable]
-#### <span class="gold" >Multiple Workspace Environment Variable - </span>
+<p align="right"><span class="gold" >Multiple Workspace Environment Variable </span></p>
 
 ![Package_Path](/assets/images/bgpages/bg4d.png )
 
@@ -927,7 +915,7 @@ When the build tools are run with this configuration the directories will be sca
 
 +++
 @title[Multiple Workspace Environment Variable 02]
-#### <span class="gold" >Multiple Workspace Environment Variable - </span>
+<p align="right"><span class="gold" >Multiple Workspace Environment Variable </span></p>
 
 ![Package_Path](/assets/images/bgpages/bg4e.png )
 
@@ -947,7 +935,7 @@ When the build tools are run with this configuration the directories will be sca
 
 +++
 @title[Multiple Workspace Environment Variable 03]
-#### <span class="gold" >Multiple Workspace Environment Variable - </span>
+<p align="right"><span class="gold" >Multiple Workspace Environment Variable </span></p>
 
 ![Package_Path](/assets/images/bgpages/bg4f.png )
 
@@ -968,7 +956,7 @@ When the build tools are run with this configuration the directories will be sca
 
 ---
 @title[Using target.txt]
-#### <p> <span class="gold" >Using <font face="Courier New">target.txt</font></span></p>
+#### <p> <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>target.txt</b></font></span></font></span></p>
 
 ![Using target.txt](/assets/images/bgpages/bg51.png )
 
@@ -978,7 +966,7 @@ Scroll to last slide
 
 +++
 @title[Using target.txt 02]
-#### <p> <span class="gold" >Using <font face="Courier New">target.txt</font></span></p>
+#### <p> <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>target.txt</b></font></span></font></span></p>
 
 ![Using target.txt](/assets/images/bgpages/bg52.png )
 
@@ -988,7 +976,7 @@ Scroll to last slide
 
 +++
 @title[Using target.txt 03]
-#### <p> <span class="gold" >Using <font face="Courier New">target.txt</font></span></p>
+#### <p> <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>target.txt</b></font></span></font></span></p>
 
 ![Using target.txt](/assets/images/bgpages/bg53.png )
 
@@ -997,7 +985,7 @@ Note:
 Scroll to last slide
 +++
 @title[Using target.txt 04]
-#### <p> <span class="gold" >Using <font face="Courier New">target.txt</font></span></p>
+#### <p> <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>target.txt</b></font></span></font></span></p>
 
 ![Using target.txt](/assets/images/bgpages/bg54.png )
 
@@ -1006,7 +994,7 @@ Note:
 Scroll to last slide
 +++
 @title[Using target.txt 05]
-#### <p> <span class="gold" >Using <font face="Courier New">target.txt</font></span></p>
+#### <p> <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>target.txt</b></font></span></font></span></p>
 
 ![Using target.txt](/assets/images/bgpages/bg55.png )
 
@@ -1015,7 +1003,7 @@ Note:
 Scroll to last slide
 +++
 @title[Using target.txt 06]
-#### <p> <span class="gold" >Using <font face="Courier New">target.txt</font></span></p>
+#### <p> <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>target.txt</b></font></span></font></span></p>
 
 ![Using target.txt](/assets/images/bgpages/bg56.png )
 
@@ -1042,9 +1030,9 @@ Six, is how many threads to use to do the build – so if you have a brand-new C
 
 ---
 @title[Using Tools_Def.txt]
-#### <p> <span class="gold" >Using <font face="Courier New">Tools_Def.txt</font></span></p>
+#### <p> <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>Tools_Def.txt</b></font></span></font></span></p>
 
-![Using Tools_Def.txt](/assets/images/bgpages/bg57_1.png )
+![Using Tools_Def.txt](/assets/images/bgpages/bg58.png )
 
 Note:
 Paths for compilers, assemblers, and linkers <br>
@@ -1054,9 +1042,9 @@ Paths for compilers, assemblers, and linkers <br>
 
 +++
 @title[Using Tools_Def.txt 02]
-#### <p> <span class="gold" >Using <font face="Courier New">Tools_Def.txt</font></span></p>
+#### <p> <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>Tools_Def.txt</b></font></span></font></span></p>
 
-![Using Tools_Def.txt](/assets/images/bgpages/bg57_2.png )
+![Using Tools_Def.txt](/assets/images/bgpages/bg59.png )
 
 Note:
 
@@ -1067,9 +1055,9 @@ Only modify this file when …<br>
 
 +++
 @title[Using Tools_Def.txt 03]
-#### <p> <span class="gold" >Using <font face="Courier New">Tools_Def.txt</font></span></p>
+#### <p> <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;Using <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>Tools_Def.txt</b></font></span></font></span></p>
 
-![Using Tools_Def.txt](/assets/images/bgpages/bg57_3.png )
+![Using Tools_Def.txt](/assets/images/bgpages/bg5a.png )
 
 Note:
 Paths for compilers, assemblers, and linkers <br>
@@ -1085,79 +1073,79 @@ Default values are set by edksetup script<br>
 
 ---?image=assets/images/binary-strings-black2.jpg
 @title[Build Process Section]
-#### <span class="brick"  >&nbsp;&nbsp;&nbsp;Build Process</span>
-<span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;EDK Build Process and Build Text Files</span>
+#### <span class="brick"  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build Process</span>
+<span style="font-size:0.75em" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDK Build Process and Build Text Files</span>
 
 ---
 @title[Build Process Overview]
-#### <span class="gold" >Build Process Overview</span>
+#### <p align="right"><span class="gold" >Build Process Overview </span></p>
 
-![Build Process Overview](/assets/images/bgpages/bg5a.png )
+![Build Process Overview](/assets/images/bgpages/bg5d.png )
 
 Note:
  
 +++
 @title[Build Process Overview 02]
-#### <span class="gold" >Build Process Overview</span>
+#### <p align="right"><span class="gold" >Build Process Overview </span></p>
 
-![Build Process Overview](/assets/images/bgpages/bg5b.png )
+![Build Process Overview](/assets/images/bgpages/bg5e.png )
 
 Note:
  
 
 +++
 @title[Build Process Overview 03]
-#### <span class="gold" >Build Process Overview</span>
-
-![Build Process Overview](/assets/images/bgpages/bg5c.png )
-
-Note:
-
-+++
-@title[Build Process Overview 04]
-#### <span class="gold" >Build Process Overview</span>
-
-![Build Process Overview](/assets/images/bgpages/bg5d.png )
-
-Note:
-
-+++
-@title[Build Process Overview 05]
-#### <span class="gold" >Build Process Overview</span>
-
-![Build Process Overview](/assets/images/bgpages/bg5e.png )
-
-Note:
-
-+++
-@title[Build Process Overview 06]
-#### <span class="gold" >Build Process Overview</span>
+#### <p align="right"><span class="gold" >Build Process Overview </span></p>
 
 ![Build Process Overview](/assets/images/bgpages/bg5f.png )
 
 Note:
 
 +++
-@title[Build Process Overview 07]
-#### <span class="gold" >Build Process Overview</span>
+@title[Build Process Overview 04]
+#### <p align="right"><span class="gold" >Build Process Overview </span></p>
 
 ![Build Process Overview](/assets/images/bgpages/bg60.png )
 
 Note:
 
 +++
-@title[Build Process Overview 08]
-#### <span class="gold" >Build Process Overview</span>
+@title[Build Process Overview 05]
+#### <p align="right"><span class="gold" >Build Process Overview </span></p>
 
 ![Build Process Overview](/assets/images/bgpages/bg61.png )
 
 Note:
 
++++
+@title[Build Process Overview 06]
+#### <p align="right"><span class="gold" >Build Process Overview </span></p>
+
+![Build Process Overview](/assets/images/bgpages/bg62.png )
+
+Note:
+
++++
+@title[Build Process Overview 07]
+#### <p align="right"><span class="gold" >Build Process Overview </span></p>
+
+![Build Process Overview](/assets/images/bgpages/bg63.png )
+
+Note:
+
++++
+@title[Build Process Overview 08]
+#### <p align="right"><span class="gold" >Build Process Overview </span></p>
+
+![Build Process Overview](/assets/images/bgpages/bg64.png )
+
+Note:
+
 ---
 @title[Basic Build Steps]
-#### <span class="gold" >Basic Build Steps</span>
+#### <p align="right"><span class="gold" >Basic Build Steps </span></p>
 
-![Basic Build Steps](/assets/images/bgpages/bg62_1.png )
+![Basic Build Steps](/assets/images/bgpages/bg66.png )
 
 Note:
 
@@ -1175,51 +1163,15 @@ SAME except - Change to a directory with the proper INF
 
 ---
 @title[Build Output Location]
-#### <span class="gold" >Build Output Location</span>
-
-![Build Output Location](/assets/images/bgpages/bg64.png )
-
-Note:
-
-+++
-@title[Build Output Location 02]
-#### <span class="gold" >Build Output Location</span>
-
-![Build Output Location](/assets/images/bgpages/bg65.png )
-
-Note:
-
-
-+++
-@title[Build Output Location 03]
-#### <span class="gold" >Build Output Location</span>
-
-![Build Output Location](/assets/images/bgpages/bg66.png )
-
-Note:
-
-
-+++
-@title[Build Output Location 04]
-#### <span class="gold" >Build Output Location</span>
-
-![Build Output Location](/assets/images/bgpages/bg67.png )
-
-Note:
-
-
-+++
-@title[Build Output Location 05]
-#### <span class="gold" >Build Output Location</span>
+#### <p align="right"><span class="gold" >Build Output Location</span></p>
 
 ![Build Output Location](/assets/images/bgpages/bg68.png )
 
 Note:
 
-
 +++
-@title[Build Output Location 06]
-#### <span class="gold" >Build Output Location</span>
+@title[Build Output Location 02]
+#### <p align="right"><span class="gold" >Build Output Location</span></p>
 
 ![Build Output Location](/assets/images/bgpages/bg69.png )
 
@@ -1227,8 +1179,8 @@ Note:
 
 
 +++
-@title[Build Output Location 07]
-#### <span class="gold" >Build Output Location</span>
+@title[Build Output Location 03]
+#### <p align="right"><span class="gold" >Build Output Location</span></p>
 
 ![Build Output Location](/assets/images/bgpages/bg6a.png )
 
@@ -1236,8 +1188,8 @@ Note:
 
 
 +++
-@title[Build Output Location 08]
-#### <span class="gold" >Build Output Location</span>
+@title[Build Output Location 04]
+#### <p align="right"><span class="gold" >Build Output Location</span></p>
 
 ![Build Output Location](/assets/images/bgpages/bg6b.png )
 
@@ -1245,18 +1197,54 @@ Note:
 
 
 +++
-@title[Build Output Location 09]
-#### <span class="gold" >Build Output Location</span>
+@title[Build Output Location 05]
+#### <p align="right"><span class="gold" >Build Output Location</span></p>
 
 ![Build Output Location](/assets/images/bgpages/bg6c.png )
 
 Note:
 
+
++++
+@title[Build Output Location 06]
+#### <p align="right"><span class="gold" >Build Output Location</span></p>
+
+![Build Output Location](/assets/images/bgpages/bg6d.png )
+
+Note:
+
+
++++
+@title[Build Output Location 07]
+#### <p align="right"><span class="gold" >Build Output Location</span></p>
+
+![Build Output Location](/assets/images/bgpages/bg6e.png )
+
+Note:
+
+
++++
+@title[Build Output Location 08]
+#### <p align="right"><span class="gold" >Build Output Location</span></p>
+
+![Build Output Location](/assets/images/bgpages/bg6f.png )
+
+Note:
+
+
++++
+@title[Build Output Location 09]
+#### <p align="right"><span class="gold" >Build Output Location</span></p>
+
+![Build Output Location](/assets/images/bgpages/bg70.png )
+
+Note:
+
 ---
 @title[EDK II Build Process Stages]
-#### <span class="gold" >EDK II Build Process Stages</span>
+#### <p align="right"><span class="gold" >EDK II Build Process Stages</span></p>
 
-![EDK II Build Process Stages](/assets/images/bgpages/bg6e.png )
+![EDK II Build Process Stages](/assets/images/bgpages/bg72.png )
 
 Note:
 Parse meta-data files to generate some C source code files and the make files <Br>
@@ -1264,9 +1252,9 @@ Parse meta-data files to generate some C source code files and the make files <B
 
 +++
 @title[EDK II Build Process Stages 02]
-#### <span class="gold" >EDK II Build Process Stages</span>
+#### <p align="right"><span class="gold" >EDK II Build Process Stages</span></p>
 
-![EDK II Build Process Stages](/assets/images/bgpages/bg6f.png )
+![EDK II Build Process Stages](/assets/images/bgpages/bg73.png )
 
 Note:
 
@@ -1274,9 +1262,9 @@ Process source code files to create PE32/PE32+/COFF images processed to UEFI for
 
 +++
 @title[EDK II Build Process Stages 03]
-#### <span class="gold" >EDK II Build Process Stages</span>
+#### <p align="right"><span class="gold" >EDK II Build Process Stages</span></p>
 
-![EDK II Build Process Stages](/assets/images/bgpages/bg70.png )
+![EDK II Build Process Stages](/assets/images/bgpages/bg74.png )
 
 Note:
 Parse meta-data files to generate some C source code files and the make files <Br>
@@ -1287,9 +1275,9 @@ Takes the UEFI format files, creates UEFI “FLASH” images, UEFI apps, or UEFI
 
 ---
 @title[EDK II Build AutoGen Stage]
-#### <span class="gold" >EDK II Build: AutoGen Stage</span>
+#### <p align="right"><span class="gold" >EDK II Build: AutoGen Stage</span></p>
 
-![EDK II Build AutoGen Stage](/assets/images/bgpages/bg72_1.png )
+![EDK II Build AutoGen Stage](/assets/images/bgpages/bg76.png )
 
 Note:
 Build –p OvmfPkg/OvmfX64Pkg.dsc<br>
@@ -1304,9 +1292,9 @@ DSC points to all the components, Libraries, PCDs, etc needed to build a PACKAGE
 
 ---
 @title[EDK II Build Make Stage]
-#### <span class="gold" >EDK II Build: Make Stage</span>
+#### <p align="right"><span class="gold" >EDK II Build: Make Stage</span></p>
 
-![EDK II Make Stage](/assets/images/bgpages/bg74.png )
+![EDK II Make Stage](/assets/images/bgpages/bg78.png )
 
 Note:
 Uses assemblers, compilers and linkers commonly available to generate a PE32/PE32+/COFF image file <BR>
@@ -1329,9 +1317,9 @@ This last stage is also configurable.<BR>
 
 ---
 @title[EDK II Build Image GEN Stage]
-#### <span class="gold" >EDK II Build: ImageGen Stage</span>
+#### <p align="right"><span class="gold" >EDK II Build: ImageGen Stage</span></p>
 
-![EDK II Image Gen Stage](/assets/images/bgpages/bg76.png )
+![EDK II Image Gen Stage](/assets/images/bgpages/bg7a.png )
 
 Note:
 Builds one image for each specified firmware volume (FV) <BR>
@@ -1346,23 +1334,23 @@ This last stage is also configurable.<BR>
 
 ---
 @title[Build Flow For OpROM]
-#### <span class="gold" >Build Flow For OpROM</span>
+#### <p align="right"><span class="gold" >Build Flow For OpROM</span></p>
 
-![Build Flow For OpROM](/assets/images/bgpages/bg78_1.png )
+![Build Flow For OpROM](/assets/images/bgpages/bg7c.png )
 
 Note:
 
 +++
 @title[Build Flow For OpROM 02]
-#### <span class="gold" >Build Flow For OpROM</span>
+#### <p align="right"><span class="gold" >Build Flow For OpROM</span></p>
 
-![Build Flow For OpROM](/assets/images/bgpages/bg79_1.png )
+![Build Flow For OpROM](/assets/images/bgpages/bg7d.png )
 
 Note:
 
 ---
 @title[Build Command]
-#### <span class="gold" >Build Command</span>
+#### <span class="gold" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Build Command</span>
 
 - Accepts command line arguments to support scripted builds |
 - Overrides most settings found in target.txt |
@@ -1391,9 +1379,9 @@ In advanced build usage you can type build –h, or build –help, and it will g
 
 ---
 @title[Using EDK II build Command]
-#### <p><span class="gold"  >Using EDK II</span> <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>build</b></font></span><span class="gold"  >&nbsp;Command </span></p>
+#### <p align="right"><span class="gold"  >Using EDK II</span> <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>build</b></font></span><span class="gold"  >&nbsp;&nbsp;Command </span></p>
 
-![build Command](/assets/images/bgpages/bg7c.png )
+![build Command](/assets/images/bgpages/bg80.png )
 
 Note:
 
@@ -1401,9 +1389,9 @@ This is not the complete list … run build --help from the command prompt to se
 
 +++
 @title[Using EDK II build Command]
-#### <p><span class="gold"  >Using EDK II</span> <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>build</b></font></span><span class="gold"  >&nbsp;Command </span></p>
+#### <p align="right"><span class="gold"  >Using EDK II</span> <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>build</b></font></span><span class="gold"  >&nbsp;&nbsp;Command </span></p>
 
-![build Command](/assets/images/bgpages/bg7d.png )
+![build Command](/assets/images/bgpages/bg81.png )
 
 Note:
 
@@ -1411,7 +1399,7 @@ This is not the complete list … run build --help from the command prompt to se
 
 ---
 @title[Using Build-Y Reports]
-#### <p><span class="gold"  >Using </span> <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>build -Y</b></font></span><span class="gold"  >&nbsp;for Reports </span></p>
+#### <p align="right"><span class="gold"  >Using </span> <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>build -Y</b></font></span><span class="gold"  >&nbsp;&nbsp;for Reports </span></p>
 
 ![build Command -Y](/assets/images/bgpages/bg7f.png )
 
@@ -1428,9 +1416,9 @@ To specify more than one flag, repeat this option on the command line and the de
 
 +++
 @title[Using Build-Y Reports Example]
-#### <p><span class="gold"  >Using </span> <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>build -Y</b></font></span><span class="gold"  >&nbsp;for Reports </span></p>
+#### <p align="right"><span class="gold"  >Using </span> <span style="color:white;">&nbsp;&nbsp;<font face="Courier New"><b>build -Y</b></font></span><span class="gold"  >&nbsp;&nbsp;for Reports </span></p>
 
-- TBD
+- TBD  add examples from Ovmfpkg build on GCC5
 
 Note:
 TBD
@@ -1439,7 +1427,7 @@ TBD
 @title[Build Tool Binaries]
 #### <span class="gold"  >Build Tool Binaries</span>
 
-![Build Tool Binaries](/assets/images/bgpages/bg81.png )
+![Build Tool Binaries](/assets/images/bgpages/buildToolBin.jpg)
 
 Note:
 The build tool binary files <br>
