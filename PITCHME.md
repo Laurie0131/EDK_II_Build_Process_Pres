@@ -343,10 +343,10 @@ Note:
 ---
 
 @title[Packages]
-#### <p align="right"><span class="gold" > Packages</span></p>
+#### <p align="center"><span class="gold" > Packages</span></p>
 
 <div class="left">
-     <span style="color:#FFFF99"><i class="fa fa-gift fa-7x" aria-hidden="true" > </i> </span>
+     <span style="color:#FFFF99"><i class="fa fa-gift fa-5x" aria-hidden="true" > </i> </span>
 </div>
 <div class="right">
     <ul>
@@ -355,7 +355,7 @@ Note:
         <li>Package contains only the necessities</li>
         <li>Remove packages from projects when not required</li>
     </ul>
-    <i class="fa fa-gift fa-5x" aria-hidden="true" color="#FFFF99"> </i>
+ 
  </div>
 
 
