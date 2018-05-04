@@ -346,14 +346,15 @@ Note:
 #### <p align="right"><span class="gold" > Packages</span></p>
 
 <div class="left">
+     <span style="color:#FFFF99"><i class="fa fa-gift fa-7x" aria-hidden="true" > </i> </span>
+</div>
+<div class="right">
     <ul>
         <li>EDK II projects are made up of packages</li>
         <li>Make your own packages</li>
         <li>Package contains only the necessities</li>
         <li>Remove packages from projects when not required</li>
     </ul>
-</div>
-<div class="right">
     <i class="fa fa-gift fa-5x" aria-hidden="true" color="#FFFF99"> </i>
  </div>
 
