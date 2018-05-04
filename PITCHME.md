@@ -346,7 +346,7 @@ Note:
 #### <p align="center"><span class="gold" > Packages</span></p>
 
 <div class="left">
-     <span style="color:#FFFF99"><i class="fa fa-gift fa-5x" aria-hidden="true" > </i> </span>
+     <span style="color:#9e692e">&nbsp;&nbsp;&nbsp;<i class="fa fa-gift fa-5x" aria-hidden="true" > </i> </span>
 </div>
 <div class="right">
     <ul>
