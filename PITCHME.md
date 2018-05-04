@@ -182,7 +182,7 @@ EDK II architecture discussions primarily focus on UEFI (OS-to-firmware interfac
 ---
 @title[EDK II File Extensions]
 <p align="center"><span style="font-size:0.9em" > &nbsp;&nbsp;&nbsp;<font color="#e49436">EDK II File Extensions</font><font color="white">
-&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2  </font> </span></p>
+<br>-&nbsp;Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2  </font> </span></p>
 
 ![EDK II File Extensions](/assets/images/bgpages/ext_01.jpg )
 
@@ -204,7 +204,7 @@ See EDK II Build Specification Documentation:
 +++
 @title[EDK II File Extensions 02]
 <p align="center"><span style="font-size:0.9em" > &nbsp;&nbsp;&nbsp;<font color="#e49436">EDK II File Extensions</font><font color="white">
-&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2  </font> </span></p>
+<br>-&nbsp;Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2  </font> </span></p>
 
 ![EDK II File Extensions](/assets/images/bgpages/ext_02.jpg )
 
@@ -213,7 +213,7 @@ So for file extensions <br>
 +++
 @title[EDK II File Extensions 03]
 <p align="center"><span style="font-size:0.9em" > &nbsp;&nbsp;&nbsp;<font color="#e49436">EDK II File Extensions</font><font color="white">
-&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2  </font> </span></p>
+<br>-&nbsp;Located on <a href='http://www.tianocore.org'>tianocore.org</a> project edk2  </font> </span></p>
 
 ![EDK II File Extensions](/assets/images/bgpages/ext_03.jpg)
 
@@ -339,9 +339,32 @@ Note:
 ![Modules](/assets/images/bgpages/bg1f.png )
 
 Note:
+
 ---
 
 @title[Packages]
+#### <p align="right"><span class="gold" > Packages</span></p>
+
+<div class="left">
+    <ul>
+        <li>EDK II projects are made up of packages</li>
+        <li>Make your own packages</li>
+        <li>Package contains only the necessities</li>
+        <li>Remove packages from projects when not required</li>
+    </ul>
+</div>
+<div class="right">
+    <i class="fa fa-gift fa-5x" aria-hidden="true" color="#FFFF99"> </i>
+ </div>
+
+
+
+Note:
+TBD get notes from PackagesORG
+
+---
+
+@title[Packagesorg]
 #### <p align="right"><span class="gold" > Packages</span></p>
 ![Modules](/assets/images/bgpages/bg21.png )
 
