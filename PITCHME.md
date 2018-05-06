@@ -344,23 +344,23 @@ Note:
 
 @title[Packages]
 #### <p align="center"><span class="gold" > Packages</span></p>
-
-<div class="left">
+@div[left-50]
      <span style="color:#9e692e">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-gift fa-3x" aria-hidden="true" > </i> </span>
 	 <span style="color:#514124">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-gift fa-2x" aria-hidden="true" > </i> </span><br>
      <span style="color:#BF5122">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-gift fa-5x" aria-hidden="true" > </i> </span>
 	 <span style="color:#FFFF99">&nbsp;&nbsp;<i class="fa fa-gift fa-2x" aria-hidden="true" > </i>
 
-</div>
-<div class="right">
-    <ul>
-        <li>EDK II projects are made up of packages</li>
-        <li>Make your own packages</li>
-        <li>Package contains only the necessities</li>
-        <li>Remove packages from projects when not required</li>
-    </ul>
- 
- </div>
+@divend
+@div[right-50]
+<br><br><br>
+@ul[brighten]
+- EDK II projects are made up of packages
+- Make your own packages
+- Package contains only the necessities
+- Remove packages from projects when not required
+@ulend
+@divend
+
 
 
 
