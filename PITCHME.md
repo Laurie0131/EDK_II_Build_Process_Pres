@@ -366,6 +366,24 @@ Note:
 
 Note:
 TBD get notes from PackagesORG
+---?color=black
+
+### @color[white](Layout text alongside images)
+
+@div[left-50]
+<br>
+![Modules](/assets/images/bgpages/bg21.png )
+@divend
+
+@div[right-50]
+<br><br><br>
+@ul[brighten]
+- EDK II projects are made up of packages
+- Make your own packages
+- Package contains only the necessities
+- Remove packages from projects when not required
+@ulend
+@divend
 
 ---
 
