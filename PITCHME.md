@@ -1552,3 +1552,14 @@ Copyright (c) 2018, Intel Corporation. All rights reserved.
 **/
 
 ```
+
+Note:
+
+---?code=sample/SampleApp/SampleApp.c&lang=c++&title=C File
+
+@[30,32-36](Present code found within any repo source file.)
+@[38-48](Without ever leaving your slideshow.)
+@[53-60](Using GitPitch code-presenting with (optional) annotations.)
+
+Note:
+example of a UEFI application in C
